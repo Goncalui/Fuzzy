@@ -24,7 +24,7 @@ Este repositório contém um código Python para visualização de um ambiente d
    pip install -r requirements.txt
 
 Usage
- ```
+ 
 1. Run the `main.py` file:
    python main.py
 
@@ -33,7 +33,7 @@ Usage
 4. Click the "Pause" button to pause or resume the visualization.
 
 
- ```
+ 
 
 License
 This project is licensed under the MIT License.
