@@ -25,7 +25,7 @@ Este repositório contém um código Python para visualização de um ambiente d
 
 Usage
  
-1. Run the `main.py` file:
+1. Run the `mainS.py` to the fuzzy file or `main-origin.py` to the original one:
    python main.py
 
 2. Click the "Start" button to start the visualization.
